@@ -41,6 +41,33 @@ The network consists of:
 
 ## Technologies Used
 - Cisco Packet Tracer
+
+
+## Project Screenshots
+
+### 1. Network Topology
+![Network Topology](screenshots/network-topology.png)
+
+### 2. ACL Configuration
+![ACL Configuration](screenshots/acl-configuration.png)
+
+### 3. PC1 Connectivity Test (Allowed)
+![PC1 Connectivity Test](screenshots/acl-connectivity-test-pc1-success.png)
+
+### 4. PC2 Connectivity Test (Blocked)
+![PC2 Connectivity Test](screenshots/acl-connectivity-test-pc2-blocked.png)
+
+### 5. Switch Port Security
+![Port Security](screenshots/port-security.png)
+
+### 6. STP Verification
+![STP Verification](screenshots/stp-verification.png)
+
+### 7. PortFast and BPDU Guard
+![PortFast and BPDU Guard](screenshots/portfast-bpduguard.png)
+
+### 8. Interface Status
+![Interface Status](screenshots/interface-status.png)
 - Cisco IOS
 - Access Control Lists (ACLs)
 - Switch Port Security
